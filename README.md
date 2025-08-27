@@ -58,7 +58,7 @@ In this project:
 
 ### 2. Decision Tree Classifier
 
-- Accuracy: **(your result here)%**
+- Accuracy: **79.29%**
 - Captures non-linear relationships
 - May overfit on small datasets
 
